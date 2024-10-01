@@ -1,6 +1,6 @@
 # 🌌🦾
 
-Currently having fun conducting Mechanistic Interpretability Research.
+Currently having fun conducting mechanistic interpretability research.
 
 Predicted Distinction in Artificial Intelligence MSc at Brunel University of London.
 

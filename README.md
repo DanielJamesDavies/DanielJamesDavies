@@ -2,7 +2,7 @@
 
 Currently having fun conducting mechanistic interpretability research and building AI-integrated applications to help people.
 
-Predicted Distinction in Artificial Intelligence MSc at Brunel University of London.
+Artificial Intelligence MSc (Distinction) at Brunel University of London.
 
 Computer Science (Artificial Intelligence) BSc with First Class Honours.
 

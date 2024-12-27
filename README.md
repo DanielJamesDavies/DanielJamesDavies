@@ -1,11 +1,16 @@
 # 🌌🦾
 
-Currently having fun conducting mechanistic interpretability research and building AI-integrated applications to help people.
+I'm deeply interested in maximising the probability of the best possible future.
+Passionate about building AI systems to solve complex real-world problems.
 
-Artificial Intelligence MSc (Distinction) at Brunel University of London.
+What I'm Up To:
+- Independent Mechanistic Interpretability Researcher
+- Machine Learning Engineer at Projekt Rising
 
-Computer Science (Artificial Intelligence) BSc with First Class Honours.
+Education:
+- MSc in Artificial Intelligence with Distinction at Brunel University London
+- BSc in Computer Science (Artificial Intelligence) with First Class Honours
 
-Deeply interested in maximising p(good_future).
-
-Passionate about using AI to solve our biggest problems and to maximise freedom and ability for all.
+Key Skills:
+- Machine Learning, Mechanistic Interpretability, Pre‑Training, Applied AI
+- Python, PyTorch, NumPy, JavaScript, React

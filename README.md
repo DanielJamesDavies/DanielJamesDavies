@@ -1,5 +1,3 @@
-# 🌌🦾
-
 ## Hello, I'm Daniel! 👋
 I'm deeply interested in maximising the probability of the best possible future.
 

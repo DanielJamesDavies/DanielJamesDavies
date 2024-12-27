@@ -1,6 +1,7 @@
 # 🌌🦾
 
 I'm deeply interested in maximising the probability of the best possible future.
+
 Passionate about building AI systems to solve complex real-world problems.
 
 What I'm Up To:
